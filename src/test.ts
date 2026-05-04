@@ -1,5 +1,5 @@
 
 
-const course : string = "next level web development"
+const course : string = "next level web development   "
 
-console.log(course)
+console.log(course) 
